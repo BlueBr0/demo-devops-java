@@ -14,4 +14,6 @@ public class App
         
         System.out.println(a.toString());
     }
+    
+    public static int sum(int a, int b) { return a + b; }
 }
